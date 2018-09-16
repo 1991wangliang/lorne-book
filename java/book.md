@@ -3,4 +3,4 @@
 惺惺惜惺惺
 
 
-![](img/logo.png)
+![](/img/logo.png)
