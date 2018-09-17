@@ -4,7 +4,7 @@
 
 ## logo展示
 
-![Mou set up-w40](/static/logo.png)
+![Mou](/static/logo.png?w=40)
 
 
 ## title测试
