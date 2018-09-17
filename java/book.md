@@ -4,7 +4,7 @@
 
 ## logo展示
 
-![](/static/logo.png)
+![](/static/logo.png = 50x50)
 
 
 ## title测试
