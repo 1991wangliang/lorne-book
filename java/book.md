@@ -4,7 +4,7 @@
 
 ## logo展示
 
-![Mou icon](/static/logo.png=50x50)
+![Mou icon](/static/logo.png=50x)
 
 
 ## title测试
